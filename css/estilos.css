@@ -23,6 +23,12 @@ margin: auto auto;
 
 }
 
+footer{
+background: gray;
+text-align: center;
+
+}
+
 .cuerpo{
   padding-left: 20px;
 }
