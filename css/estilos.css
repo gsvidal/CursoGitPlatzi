@@ -29,6 +29,12 @@ align-items: center;
 
 }
 
+footer{
+background: gray;
+text-align: center;
+
+}
+
 .cuerpo{
   padding-left: 20px;
 }
