@@ -5,24 +5,41 @@ body{
   /* text-align: left; */
   width: 500px;
   margin: auto auto;
+  /* border: 1px solid gray; */
 
 }
 .container{
   border: 1px solid gray;
 }
+
 #cabecera{
   background: #33a;
   color: white;
-  margin: 0;
-  padding: 0.5em;
+  /* margin: 0; */
+  /* padding: 0.5em; */
   font-weight: bold;
   -webkit-box-shadow: -2px 3px 14px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -2px 3px 14px 0px rgba(0,0,0,0.75);
 box-shadow: -2px 3px 14px 0px rgba(0,0,0,0.75);
-margin: auto auto;
+/* margin: auto auto; */
+padding: 15px 20px;
+font-size: 20px;
+display: flex;
+align-items: center;
 
 }
 
 .cuerpo{
   padding-left: 20px;
 }
+
+#cabecera p{
+  margin: 0;
+}
+
+#cabecera #logo {
+  width: 25px;
+  /* vertical-align: middle; */
+  padding-right:10px;
+}
+
