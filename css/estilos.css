@@ -9,7 +9,7 @@ body{
 
 }
 .container{
-  border: 1px solid gray;
+  border: 1px solid black;
 }
 
 #cabecera{
@@ -49,3 +49,6 @@ text-align: center;
   padding-right:10px;
 }
 
+/* .cuerpo img {
+  width: auto;
+} */
