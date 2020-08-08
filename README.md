@@ -2,7 +2,7 @@
 
 - Este es un repositorio del curso de Git y Github en Platzi, en él encontrarás la información necesaria para crear un blogpost y su historia de principio a fin.
 
-##Lo que se vio en el curso
+## Lo que se vio en el curso
 > HTML, CSS, Git, Github, etc.
 
 Link del curso en Platzi:
