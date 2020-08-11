@@ -7,6 +7,8 @@
 
 Todo esto aplicado a un Blogpost.
 
+Incluye ejemplos en Windows, Linux y Mac.
+
 Link del curso en Platzi:
 https://platzi.com/clases/git-github/
 
