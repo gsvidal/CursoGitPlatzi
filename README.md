@@ -5,6 +5,8 @@
 ## Lo que se vio en el curso
 > HTML, CSS, Git, Github, etc.
 
+Todo esto aplicado a un Blogpost.
+
 Link del curso en Platzi:
 https://platzi.com/clases/git-github/
 
