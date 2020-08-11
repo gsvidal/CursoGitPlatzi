@@ -7,13 +7,10 @@
 
 Todo esto aplicado a un Blogpost.
 
-<<<<<<< HEAD
-=======
 Incluye ejemplos en Windows, Linux y Mac.
 
 Tercera linea...
 
->>>>>>> readme-mejorado
 Link del curso en Platzi:
 https://platzi.com/clases/git-github/
 
